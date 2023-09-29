@@ -1,0 +1,46 @@
+body {
+	background: #e5e5e5;
+}
+
+
+h1{}
+
+p { 
+
+}
+
+a {}
+
+.first_line {
+	color: red;
+	font-weight: bold;
+}
+
+.featured {
+	background: #ffe169;
+}
+
+.last_line {
+	color: grey;
+}
+
+.extra {
+	font-size: 24px;
+}
+
+.logo {
+	margin:40px auto;
+	text-align: center;
+}
+
+.heading_table{
+	background: #a663cc;
+	color: #10002b;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.center_table{
+	margin: 0% auto;
+	text-align: center;
+}
